@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I am currently starting my journey into Java Development, I have dabbled in C# & C++ mostly when tinkering with Game development but now its time to step up into more professional spheres outside of my hobby space
 <!--
 **rgwirtz/rgwirtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
